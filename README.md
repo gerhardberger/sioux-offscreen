@@ -22,6 +22,6 @@ off.toggle(function () {
 - __hidden__: _Boolean_, whether the offscreen element is hidden or not
 
 ### methods
-- __show(_callback_)__: shows the `offscreen` element, the `callback` gets called when the animation ended
-- __hide(_callback_)__: hides the `offscreen` element, the `callback` gets called when the animation ended
-- __toggle(_callback_)__: toggles the state, the `callback` gets called when the animation ended
+- __show(callback)__: shows the `offscreen` element, the `callback` gets called when the animation ended
+- __hide(callback)__: hides the `offscreen` element, the `callback` gets called when the animation ended
+- __toggle(callback)__: toggles the state, the `callback` gets called when the animation ended
