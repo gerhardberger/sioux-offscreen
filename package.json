@@ -1,0 +1,23 @@
+{
+    "name": "sioux-offscreen",
+    "version": "0.0.1",
+    "description": "An off screen navigation item. Similar to the menu of the Facebook and Path app",
+    "main": "index.js",
+    "dependencies": {},
+    "styles": ["style.css"],
+    "keywords": [
+        "sioux",
+        "ui",
+        "offscreen",
+        "menu"
+    ],
+    "repository": {
+        "type" : "git",
+        "url" : "http://github.com/gerhardberger/sioux-offscreen.git"
+    },
+    "author": {
+        "name": "Gerhard Berger",
+        "email": "93.morph@gmail.com",
+        "url": "https://twitter.com/gerhard_berger"
+    }
+}
