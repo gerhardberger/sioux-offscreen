@@ -1,5 +1,7 @@
 # sioux offscreen
 
+More info from sioux: [gerhardberger.github.io/sioux/](http://gerhardberger.github.io/sioux/)
+
 ``` bash
 npm install sioux-offscreen
 ```
